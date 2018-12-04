@@ -1,3 +1,8 @@
+
+Next.js + React Pixi.js example
+
+
+
 [![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/zeit/next.js/tree/master/examples/hello-world)
 
 # Hello World example
