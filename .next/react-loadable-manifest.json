@@ -1,0 +1,1562 @@
+{
+  "./noop": [
+    {
+      "id": "./node_modules/next/dist/client/noop.js",
+      "name": "./node_modules/next/dist/client/noop.js",
+      "file": "static/chunks/0.js",
+      "publicPath": "static/chunks/0.js"
+    }
+  ],
+  "./dist/react-pixi.module-dev": [
+    {
+      "id": "./node_modules/@inlet/react-pixi/dist/react-pixi.module-dev.js",
+      "name": "./node_modules/@inlet/react-pixi/dist/react-pixi.module-dev.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "@inlet/react-pixi": [
+    {
+      "id": "./node_modules/@inlet/react-pixi/module.js",
+      "name": "./node_modules/@inlet/react-pixi/module.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "bit-twiddle": [
+    {
+      "id": "./node_modules/bit-twiddle/twiddle.js",
+      "name": "./node_modules/bit-twiddle/twiddle.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "earcut": [
+    {
+      "id": "./node_modules/earcut/src/earcut.js",
+      "name": "./node_modules/earcut/src/earcut.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "eventemitter3": [
+    {
+      "id": "./node_modules/eventemitter3/index.js",
+      "name": "./node_modules/eventemitter3/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "ismobilejs": [
+    {
+      "id": "./node_modules/ismobilejs/isMobile.js",
+      "name": "./node_modules/ismobilejs/isMobile.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "mini-signals": [
+    {
+      "id": "./node_modules/mini-signals/lib/mini-signals.js",
+      "name": "./node_modules/mini-signals/lib/mini-signals.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "punycode": [
+    {
+      "id": "./node_modules/node-libs-browser/node_modules/punycode/punycode.js",
+      "name": "./node_modules/node-libs-browser/node_modules/punycode/punycode.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "parse-uri": [
+    {
+      "id": "./node_modules/parse-uri/index.js",
+      "name": "./node_modules/parse-uri/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "path": [
+    {
+      "id": "./node_modules/path-browserify/index.js",
+      "name": "./node_modules/path-browserify/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./GLBuffer": [
+    {
+      "id": "./node_modules/pixi-gl-core/src/GLBuffer.js",
+      "name": "./node_modules/pixi-gl-core/src/GLBuffer.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./GLFramebuffer": [
+    {
+      "id": "./node_modules/pixi-gl-core/src/GLFramebuffer.js",
+      "name": "./node_modules/pixi-gl-core/src/GLFramebuffer.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./GLShader": [
+    {
+      "id": "./node_modules/pixi-gl-core/src/GLShader.js",
+      "name": "./node_modules/pixi-gl-core/src/GLShader.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./GLTexture": [
+    {
+      "id": "./node_modules/pixi-gl-core/src/GLTexture.js",
+      "name": "./node_modules/pixi-gl-core/src/GLTexture.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./VertexArrayObject": [
+    {
+      "id": "./node_modules/pixi-gl-core/src/VertexArrayObject.js",
+      "name": "./node_modules/pixi-gl-core/src/VertexArrayObject.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./createContext": [
+    {
+      "id": "./node_modules/pixi-gl-core/src/createContext.js",
+      "name": "./node_modules/pixi-gl-core/src/createContext.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "pixi-gl-core": [
+    {
+      "id": "./node_modules/pixi-gl-core/src/index.js",
+      "name": "./node_modules/pixi-gl-core/src/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./setVertexAttribArrays": [
+    {
+      "id": "./node_modules/pixi-gl-core/src/setVertexAttribArrays.js",
+      "name": "./node_modules/pixi-gl-core/src/setVertexAttribArrays.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./shader/compileProgram": [
+    {
+      "id": "./node_modules/pixi-gl-core/src/shader/compileProgram.js",
+      "name": "./node_modules/pixi-gl-core/src/shader/compileProgram.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./defaultValue": [
+    {
+      "id": "./node_modules/pixi-gl-core/src/shader/defaultValue.js",
+      "name": "./node_modules/pixi-gl-core/src/shader/defaultValue.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./shader/extractAttributes": [
+    {
+      "id": "./node_modules/pixi-gl-core/src/shader/extractAttributes.js",
+      "name": "./node_modules/pixi-gl-core/src/shader/extractAttributes.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./shader/extractUniforms": [
+    {
+      "id": "./node_modules/pixi-gl-core/src/shader/extractUniforms.js",
+      "name": "./node_modules/pixi-gl-core/src/shader/extractUniforms.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./shader/generateUniformAccessObject": [
+    {
+      "id": "./node_modules/pixi-gl-core/src/shader/generateUniformAccessObject.js",
+      "name": "./node_modules/pixi-gl-core/src/shader/generateUniformAccessObject.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./shader": [
+    {
+      "id": "./node_modules/pixi-gl-core/src/shader/index.js",
+      "name": "./node_modules/pixi-gl-core/src/shader/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./mapSize": [
+    {
+      "id": "./node_modules/pixi-gl-core/src/shader/mapSize.js",
+      "name": "./node_modules/pixi-gl-core/src/shader/mapSize.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./mapType": [
+    {
+      "id": "./node_modules/pixi-gl-core/src/shader/mapType.js",
+      "name": "./node_modules/pixi-gl-core/src/shader/mapType.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./shader/setPrecision": [
+    {
+      "id": "./node_modules/pixi-gl-core/src/shader/setPrecision.js",
+      "name": "./node_modules/pixi-gl-core/src/shader/setPrecision.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./AccessibilityManager": [
+    {
+      "id": "./node_modules/pixi.js/lib/accessibility/AccessibilityManager.js",
+      "name": "./node_modules/pixi.js/lib/accessibility/AccessibilityManager.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./accessibleTarget": [
+    {
+      "id": "./node_modules/pixi.js/lib/accessibility/accessibleTarget.js",
+      "name": "./node_modules/pixi.js/lib/accessibility/accessibleTarget.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./accessibility": [
+    {
+      "id": "./node_modules/pixi.js/lib/accessibility/index.js",
+      "name": "./node_modules/pixi.js/lib/accessibility/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "../core/Application": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/Application.js",
+      "name": "./node_modules/pixi.js/lib/core/Application.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./Shader": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/Shader.js",
+      "name": "./node_modules/pixi.js/lib/core/Shader.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./autoDetectRenderer": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/autoDetectRenderer.js",
+      "name": "./node_modules/pixi.js/lib/core/autoDetectRenderer.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./const": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/const.js",
+      "name": "./node_modules/pixi.js/lib/core/const.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./display/Bounds": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/display/Bounds.js",
+      "name": "./node_modules/pixi.js/lib/core/display/Bounds.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./display/Container": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/display/Container.js",
+      "name": "./node_modules/pixi.js/lib/core/display/Container.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./display/DisplayObject": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/display/DisplayObject.js",
+      "name": "./node_modules/pixi.js/lib/core/display/DisplayObject.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./display/Transform": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/display/Transform.js",
+      "name": "./node_modules/pixi.js/lib/core/display/Transform.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./display/TransformBase": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/display/TransformBase.js",
+      "name": "./node_modules/pixi.js/lib/core/display/TransformBase.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./display/TransformStatic": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/display/TransformStatic.js",
+      "name": "./node_modules/pixi.js/lib/core/display/TransformStatic.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./graphics/Graphics": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/graphics/Graphics.js",
+      "name": "./node_modules/pixi.js/lib/core/graphics/Graphics.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./graphics/GraphicsData": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/graphics/GraphicsData.js",
+      "name": "./node_modules/pixi.js/lib/core/graphics/GraphicsData.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./graphics/canvas/CanvasGraphicsRenderer": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/graphics/canvas/CanvasGraphicsRenderer.js",
+      "name": "./node_modules/pixi.js/lib/core/graphics/canvas/CanvasGraphicsRenderer.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./utils/bezierCurveTo": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/graphics/utils/bezierCurveTo.js",
+      "name": "./node_modules/pixi.js/lib/core/graphics/utils/bezierCurveTo.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./graphics/webgl/GraphicsRenderer": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/graphics/webgl/GraphicsRenderer.js",
+      "name": "./node_modules/pixi.js/lib/core/graphics/webgl/GraphicsRenderer.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./WebGLGraphicsData": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/graphics/webgl/WebGLGraphicsData.js",
+      "name": "./node_modules/pixi.js/lib/core/graphics/webgl/WebGLGraphicsData.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./shaders/PrimitiveShader": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/graphics/webgl/shaders/PrimitiveShader.js",
+      "name": "./node_modules/pixi.js/lib/core/graphics/webgl/shaders/PrimitiveShader.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./utils/buildCircle": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/graphics/webgl/utils/buildCircle.js",
+      "name": "./node_modules/pixi.js/lib/core/graphics/webgl/utils/buildCircle.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./buildLine": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/graphics/webgl/utils/buildLine.js",
+      "name": "./node_modules/pixi.js/lib/core/graphics/webgl/utils/buildLine.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./utils/buildPoly": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/graphics/webgl/utils/buildPoly.js",
+      "name": "./node_modules/pixi.js/lib/core/graphics/webgl/utils/buildPoly.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./utils/buildRectangle": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/graphics/webgl/utils/buildRectangle.js",
+      "name": "./node_modules/pixi.js/lib/core/graphics/webgl/utils/buildRectangle.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./utils/buildRoundedRectangle": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/graphics/webgl/utils/buildRoundedRectangle.js",
+      "name": "./node_modules/pixi.js/lib/core/graphics/webgl/utils/buildRoundedRectangle.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./core": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/index.js",
+      "name": "./node_modules/pixi.js/lib/core/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "../math/GroupD8": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/math/GroupD8.js",
+      "name": "./node_modules/pixi.js/lib/core/math/GroupD8.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "../math/Matrix": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/math/Matrix.js",
+      "name": "./node_modules/pixi.js/lib/core/math/Matrix.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "../core/math/ObservablePoint": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/math/ObservablePoint.js",
+      "name": "./node_modules/pixi.js/lib/core/math/ObservablePoint.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./Point": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/math/Point.js",
+      "name": "./node_modules/pixi.js/lib/core/math/Point.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./math": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/math/index.js",
+      "name": "./node_modules/pixi.js/lib/core/math/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./shapes/Circle": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/math/shapes/Circle.js",
+      "name": "./node_modules/pixi.js/lib/core/math/shapes/Circle.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./shapes/Ellipse": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/math/shapes/Ellipse.js",
+      "name": "./node_modules/pixi.js/lib/core/math/shapes/Ellipse.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./shapes/Polygon": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/math/shapes/Polygon.js",
+      "name": "./node_modules/pixi.js/lib/core/math/shapes/Polygon.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./shapes/Rectangle": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/math/shapes/Rectangle.js",
+      "name": "./node_modules/pixi.js/lib/core/math/shapes/Rectangle.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./shapes/RoundedRectangle": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/math/shapes/RoundedRectangle.js",
+      "name": "./node_modules/pixi.js/lib/core/math/shapes/RoundedRectangle.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "../SystemRenderer": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/SystemRenderer.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/SystemRenderer.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./renderers/canvas/CanvasRenderer": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/canvas/CanvasRenderer.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/canvas/CanvasRenderer.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./utils/CanvasMaskManager": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/canvas/utils/CanvasMaskManager.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/canvas/utils/CanvasMaskManager.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./renderers/canvas/utils/CanvasRenderTarget": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/canvas/utils/CanvasRenderTarget.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/canvas/utils/CanvasRenderTarget.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "../../renderers/canvas/utils/canUseNewCanvasBlendModes": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/canvas/utils/canUseNewCanvasBlendModes.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/canvas/utils/canUseNewCanvasBlendModes.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./utils/mapCanvasBlendModesToPixi": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/canvas/utils/mapCanvasBlendModesToPixi.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/canvas/utils/mapCanvasBlendModesToPixi.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./TextureGarbageCollector": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/webgl/TextureGarbageCollector.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/webgl/TextureGarbageCollector.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./TextureManager": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/webgl/TextureManager.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/webgl/TextureManager.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./renderers/webgl/WebGLRenderer": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/webgl/WebGLRenderer.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/webgl/WebGLRenderer.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./WebGLState": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/webgl/WebGLState.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/webgl/WebGLState.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./renderers/webgl/filters/Filter": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/webgl/filters/Filter.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/webgl/filters/Filter.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./extractUniformsFromSrc": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/webgl/filters/extractUniformsFromSrc.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/webgl/filters/extractUniformsFromSrc.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "../filters/filterTransforms": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/webgl/filters/filterTransforms.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/webgl/filters/filterTransforms.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./renderers/webgl/filters/spriteMask/SpriteMaskFilter": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/webgl/filters/spriteMask/SpriteMaskFilter.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/webgl/filters/spriteMask/SpriteMaskFilter.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./managers/FilterManager": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/webgl/managers/FilterManager.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/webgl/managers/FilterManager.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./managers/MaskManager": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/webgl/managers/MaskManager.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/webgl/managers/MaskManager.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./managers/StencilManager": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/webgl/managers/StencilManager.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/webgl/managers/StencilManager.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./renderers/webgl/managers/WebGLManager": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/webgl/managers/WebGLManager.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/webgl/managers/WebGLManager.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./renderers/webgl/utils/ObjectRenderer": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/webgl/utils/ObjectRenderer.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/webgl/utils/ObjectRenderer.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./renderers/webgl/utils/Quad": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/webgl/utils/Quad.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/webgl/utils/Quad.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./renderers/webgl/utils/RenderTarget": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/webgl/utils/RenderTarget.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/webgl/utils/RenderTarget.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "../../renderers/webgl/utils/checkMaxIfStatmentsInShader": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/webgl/utils/checkMaxIfStatmentsInShader.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/webgl/utils/checkMaxIfStatmentsInShader.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./utils/mapWebGLBlendModesToPixi": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/webgl/utils/mapWebGLBlendModesToPixi.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/webgl/utils/mapWebGLBlendModesToPixi.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./utils/mapWebGLDrawModesToPixi": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/webgl/utils/mapWebGLDrawModesToPixi.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/webgl/utils/mapWebGLDrawModesToPixi.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./utils/validateContext": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/renderers/webgl/utils/validateContext.js",
+      "name": "./node_modules/pixi.js/lib/core/renderers/webgl/utils/validateContext.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./settings": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/settings.js",
+      "name": "./node_modules/pixi.js/lib/core/settings.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./sprites/Sprite": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/sprites/Sprite.js",
+      "name": "./node_modules/pixi.js/lib/core/sprites/Sprite.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./sprites/canvas/CanvasSpriteRenderer": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/sprites/canvas/CanvasSpriteRenderer.js",
+      "name": "./node_modules/pixi.js/lib/core/sprites/canvas/CanvasSpriteRenderer.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./sprites/canvas/CanvasTinter": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/sprites/canvas/CanvasTinter.js",
+      "name": "./node_modules/pixi.js/lib/core/sprites/canvas/CanvasTinter.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./BatchBuffer": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/sprites/webgl/BatchBuffer.js",
+      "name": "./node_modules/pixi.js/lib/core/sprites/webgl/BatchBuffer.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./sprites/webgl/SpriteRenderer": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/sprites/webgl/SpriteRenderer.js",
+      "name": "./node_modules/pixi.js/lib/core/sprites/webgl/SpriteRenderer.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./generateMultiTextureShader": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/sprites/webgl/generateMultiTextureShader.js",
+      "name": "./node_modules/pixi.js/lib/core/sprites/webgl/generateMultiTextureShader.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./text/Text": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/text/Text.js",
+      "name": "./node_modules/pixi.js/lib/core/text/Text.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./text/TextMetrics": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/text/TextMetrics.js",
+      "name": "./node_modules/pixi.js/lib/core/text/TextMetrics.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./text/TextStyle": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/text/TextStyle.js",
+      "name": "./node_modules/pixi.js/lib/core/text/TextStyle.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./textures/BaseRenderTexture": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/textures/BaseRenderTexture.js",
+      "name": "./node_modules/pixi.js/lib/core/textures/BaseRenderTexture.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./textures/BaseTexture": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/textures/BaseTexture.js",
+      "name": "./node_modules/pixi.js/lib/core/textures/BaseTexture.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./textures/RenderTexture": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/textures/RenderTexture.js",
+      "name": "./node_modules/pixi.js/lib/core/textures/RenderTexture.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./textures/Spritesheet": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/textures/Spritesheet.js",
+      "name": "./node_modules/pixi.js/lib/core/textures/Spritesheet.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./textures/Texture": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/textures/Texture.js",
+      "name": "./node_modules/pixi.js/lib/core/textures/Texture.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./textures/TextureMatrix": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/textures/TextureMatrix.js",
+      "name": "./node_modules/pixi.js/lib/core/textures/TextureMatrix.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./textures/TextureUvs": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/textures/TextureUvs.js",
+      "name": "./node_modules/pixi.js/lib/core/textures/TextureUvs.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./textures/VideoBaseTexture": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/textures/VideoBaseTexture.js",
+      "name": "./node_modules/pixi.js/lib/core/textures/VideoBaseTexture.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./Ticker": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/ticker/Ticker.js",
+      "name": "./node_modules/pixi.js/lib/core/ticker/Ticker.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./TickerListener": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/ticker/TickerListener.js",
+      "name": "./node_modules/pixi.js/lib/core/ticker/TickerListener.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./ticker": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/ticker/index.js",
+      "name": "./node_modules/pixi.js/lib/core/ticker/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./utils/canUploadSameBuffer": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/utils/canUploadSameBuffer.js",
+      "name": "./node_modules/pixi.js/lib/core/utils/canUploadSameBuffer.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "../../utils/createIndicesForQuads": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/utils/createIndicesForQuads.js",
+      "name": "./node_modules/pixi.js/lib/core/utils/createIndicesForQuads.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "../utils/determineCrossOrigin": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/utils/determineCrossOrigin.js",
+      "name": "./node_modules/pixi.js/lib/core/utils/determineCrossOrigin.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./utils": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/utils/index.js",
+      "name": "./node_modules/pixi.js/lib/core/utils/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./mapPremultipliedBlendModes": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/utils/mapPremultipliedBlendModes.js",
+      "name": "./node_modules/pixi.js/lib/core/utils/mapPremultipliedBlendModes.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./utils/maxRecommendedTextures": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/utils/maxRecommendedTextures.js",
+      "name": "./node_modules/pixi.js/lib/core/utils/maxRecommendedTextures.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./mixin": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/utils/mixin.js",
+      "name": "./node_modules/pixi.js/lib/core/utils/mixin.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./pluginTarget": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/utils/pluginTarget.js",
+      "name": "./node_modules/pixi.js/lib/core/utils/pluginTarget.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "../utils/trimCanvas": [
+    {
+      "id": "./node_modules/pixi.js/lib/core/utils/trimCanvas.js",
+      "name": "./node_modules/pixi.js/lib/core/utils/trimCanvas.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./deprecation": [
+    {
+      "id": "./node_modules/pixi.js/lib/deprecation.js",
+      "name": "./node_modules/pixi.js/lib/deprecation.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./canvas/CanvasExtract": [
+    {
+      "id": "./node_modules/pixi.js/lib/extract/canvas/CanvasExtract.js",
+      "name": "./node_modules/pixi.js/lib/extract/canvas/CanvasExtract.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./extract": [
+    {
+      "id": "./node_modules/pixi.js/lib/extract/index.js",
+      "name": "./node_modules/pixi.js/lib/extract/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./webgl/WebGLExtract": [
+    {
+      "id": "./node_modules/pixi.js/lib/extract/webgl/WebGLExtract.js",
+      "name": "./node_modules/pixi.js/lib/extract/webgl/WebGLExtract.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./AnimatedSprite": [
+    {
+      "id": "./node_modules/pixi.js/lib/extras/AnimatedSprite.js",
+      "name": "./node_modules/pixi.js/lib/extras/AnimatedSprite.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./BitmapText": [
+    {
+      "id": "./node_modules/pixi.js/lib/extras/BitmapText.js",
+      "name": "./node_modules/pixi.js/lib/extras/BitmapText.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./TilingSprite": [
+    {
+      "id": "./node_modules/pixi.js/lib/extras/TilingSprite.js",
+      "name": "./node_modules/pixi.js/lib/extras/TilingSprite.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./cacheAsBitmap": [
+    {
+      "id": "./node_modules/pixi.js/lib/extras/cacheAsBitmap.js",
+      "name": "./node_modules/pixi.js/lib/extras/cacheAsBitmap.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./getChildByName": [
+    {
+      "id": "./node_modules/pixi.js/lib/extras/getChildByName.js",
+      "name": "./node_modules/pixi.js/lib/extras/getChildByName.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./getGlobalPosition": [
+    {
+      "id": "./node_modules/pixi.js/lib/extras/getGlobalPosition.js",
+      "name": "./node_modules/pixi.js/lib/extras/getGlobalPosition.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./extras": [
+    {
+      "id": "./node_modules/pixi.js/lib/extras/index.js",
+      "name": "./node_modules/pixi.js/lib/extras/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./webgl/TilingSpriteRenderer": [
+    {
+      "id": "./node_modules/pixi.js/lib/extras/webgl/TilingSpriteRenderer.js",
+      "name": "./node_modules/pixi.js/lib/extras/webgl/TilingSpriteRenderer.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./alpha/AlphaFilter": [
+    {
+      "id": "./node_modules/pixi.js/lib/filters/alpha/AlphaFilter.js",
+      "name": "./node_modules/pixi.js/lib/filters/alpha/AlphaFilter.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./blur/BlurFilter": [
+    {
+      "id": "./node_modules/pixi.js/lib/filters/blur/BlurFilter.js",
+      "name": "./node_modules/pixi.js/lib/filters/blur/BlurFilter.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./blur/BlurXFilter": [
+    {
+      "id": "./node_modules/pixi.js/lib/filters/blur/BlurXFilter.js",
+      "name": "./node_modules/pixi.js/lib/filters/blur/BlurXFilter.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./blur/BlurYFilter": [
+    {
+      "id": "./node_modules/pixi.js/lib/filters/blur/BlurYFilter.js",
+      "name": "./node_modules/pixi.js/lib/filters/blur/BlurYFilter.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./generateBlurFragSource": [
+    {
+      "id": "./node_modules/pixi.js/lib/filters/blur/generateBlurFragSource.js",
+      "name": "./node_modules/pixi.js/lib/filters/blur/generateBlurFragSource.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./generateBlurVertSource": [
+    {
+      "id": "./node_modules/pixi.js/lib/filters/blur/generateBlurVertSource.js",
+      "name": "./node_modules/pixi.js/lib/filters/blur/generateBlurVertSource.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./getMaxBlurKernelSize": [
+    {
+      "id": "./node_modules/pixi.js/lib/filters/blur/getMaxBlurKernelSize.js",
+      "name": "./node_modules/pixi.js/lib/filters/blur/getMaxBlurKernelSize.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./colormatrix/ColorMatrixFilter": [
+    {
+      "id": "./node_modules/pixi.js/lib/filters/colormatrix/ColorMatrixFilter.js",
+      "name": "./node_modules/pixi.js/lib/filters/colormatrix/ColorMatrixFilter.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./displacement/DisplacementFilter": [
+    {
+      "id": "./node_modules/pixi.js/lib/filters/displacement/DisplacementFilter.js",
+      "name": "./node_modules/pixi.js/lib/filters/displacement/DisplacementFilter.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./fxaa/FXAAFilter": [
+    {
+      "id": "./node_modules/pixi.js/lib/filters/fxaa/FXAAFilter.js",
+      "name": "./node_modules/pixi.js/lib/filters/fxaa/FXAAFilter.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./filters": [
+    {
+      "id": "./node_modules/pixi.js/lib/filters/index.js",
+      "name": "./node_modules/pixi.js/lib/filters/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./noise/NoiseFilter": [
+    {
+      "id": "./node_modules/pixi.js/lib/filters/noise/NoiseFilter.js",
+      "name": "./node_modules/pixi.js/lib/filters/noise/NoiseFilter.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "pixi.js": [
+    {
+      "id": "./node_modules/pixi.js/lib/index.js",
+      "name": "./node_modules/pixi.js/lib/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./InteractionData": [
+    {
+      "id": "./node_modules/pixi.js/lib/interaction/InteractionData.js",
+      "name": "./node_modules/pixi.js/lib/interaction/InteractionData.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./InteractionEvent": [
+    {
+      "id": "./node_modules/pixi.js/lib/interaction/InteractionEvent.js",
+      "name": "./node_modules/pixi.js/lib/interaction/InteractionEvent.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./InteractionManager": [
+    {
+      "id": "./node_modules/pixi.js/lib/interaction/InteractionManager.js",
+      "name": "./node_modules/pixi.js/lib/interaction/InteractionManager.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./InteractionTrackingData": [
+    {
+      "id": "./node_modules/pixi.js/lib/interaction/InteractionTrackingData.js",
+      "name": "./node_modules/pixi.js/lib/interaction/InteractionTrackingData.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./interaction": [
+    {
+      "id": "./node_modules/pixi.js/lib/interaction/index.js",
+      "name": "./node_modules/pixi.js/lib/interaction/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./interactiveTarget": [
+    {
+      "id": "./node_modules/pixi.js/lib/interaction/interactiveTarget.js",
+      "name": "./node_modules/pixi.js/lib/interaction/interactiveTarget.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./bitmapFontParser": [
+    {
+      "id": "./node_modules/pixi.js/lib/loaders/bitmapFontParser.js",
+      "name": "./node_modules/pixi.js/lib/loaders/bitmapFontParser.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./loaders": [
+    {
+      "id": "./node_modules/pixi.js/lib/loaders/index.js",
+      "name": "./node_modules/pixi.js/lib/loaders/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./loader": [
+    {
+      "id": "./node_modules/pixi.js/lib/loaders/loader.js",
+      "name": "./node_modules/pixi.js/lib/loaders/loader.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./spritesheetParser": [
+    {
+      "id": "./node_modules/pixi.js/lib/loaders/spritesheetParser.js",
+      "name": "./node_modules/pixi.js/lib/loaders/spritesheetParser.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./textureParser": [
+    {
+      "id": "./node_modules/pixi.js/lib/loaders/textureParser.js",
+      "name": "./node_modules/pixi.js/lib/loaders/textureParser.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./Mesh": [
+    {
+      "id": "./node_modules/pixi.js/lib/mesh/Mesh.js",
+      "name": "./node_modules/pixi.js/lib/mesh/Mesh.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./NineSlicePlane": [
+    {
+      "id": "./node_modules/pixi.js/lib/mesh/NineSlicePlane.js",
+      "name": "./node_modules/pixi.js/lib/mesh/NineSlicePlane.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./Plane": [
+    {
+      "id": "./node_modules/pixi.js/lib/mesh/Plane.js",
+      "name": "./node_modules/pixi.js/lib/mesh/Plane.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./Rope": [
+    {
+      "id": "./node_modules/pixi.js/lib/mesh/Rope.js",
+      "name": "./node_modules/pixi.js/lib/mesh/Rope.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./canvas/CanvasMeshRenderer": [
+    {
+      "id": "./node_modules/pixi.js/lib/mesh/canvas/CanvasMeshRenderer.js",
+      "name": "./node_modules/pixi.js/lib/mesh/canvas/CanvasMeshRenderer.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./mesh": [
+    {
+      "id": "./node_modules/pixi.js/lib/mesh/index.js",
+      "name": "./node_modules/pixi.js/lib/mesh/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./webgl/MeshRenderer": [
+    {
+      "id": "./node_modules/pixi.js/lib/mesh/webgl/MeshRenderer.js",
+      "name": "./node_modules/pixi.js/lib/mesh/webgl/MeshRenderer.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./ParticleContainer": [
+    {
+      "id": "./node_modules/pixi.js/lib/particles/ParticleContainer.js",
+      "name": "./node_modules/pixi.js/lib/particles/ParticleContainer.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./particles": [
+    {
+      "id": "./node_modules/pixi.js/lib/particles/index.js",
+      "name": "./node_modules/pixi.js/lib/particles/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./ParticleBuffer": [
+    {
+      "id": "./node_modules/pixi.js/lib/particles/webgl/ParticleBuffer.js",
+      "name": "./node_modules/pixi.js/lib/particles/webgl/ParticleBuffer.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./webgl/ParticleRenderer": [
+    {
+      "id": "./node_modules/pixi.js/lib/particles/webgl/ParticleRenderer.js",
+      "name": "./node_modules/pixi.js/lib/particles/webgl/ParticleRenderer.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./ParticleShader": [
+    {
+      "id": "./node_modules/pixi.js/lib/particles/webgl/ParticleShader.js",
+      "name": "./node_modules/pixi.js/lib/particles/webgl/ParticleShader.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./Math.sign": [
+    {
+      "id": "./node_modules/pixi.js/lib/polyfill/Math.sign.js",
+      "name": "./node_modules/pixi.js/lib/polyfill/Math.sign.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./Number.isInteger": [
+    {
+      "id": "./node_modules/pixi.js/lib/polyfill/Number.isInteger.js",
+      "name": "./node_modules/pixi.js/lib/polyfill/Number.isInteger.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./Object.assign": [
+    {
+      "id": "./node_modules/pixi.js/lib/polyfill/Object.assign.js",
+      "name": "./node_modules/pixi.js/lib/polyfill/Object.assign.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./polyfill": [
+    {
+      "id": "./node_modules/pixi.js/lib/polyfill/index.js",
+      "name": "./node_modules/pixi.js/lib/polyfill/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./requestAnimationFrame": [
+    {
+      "id": "./node_modules/pixi.js/lib/polyfill/requestAnimationFrame.js",
+      "name": "./node_modules/pixi.js/lib/polyfill/requestAnimationFrame.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./BasePrepare": [
+    {
+      "id": "./node_modules/pixi.js/lib/prepare/BasePrepare.js",
+      "name": "./node_modules/pixi.js/lib/prepare/BasePrepare.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./canvas/CanvasPrepare": [
+    {
+      "id": "./node_modules/pixi.js/lib/prepare/canvas/CanvasPrepare.js",
+      "name": "./node_modules/pixi.js/lib/prepare/canvas/CanvasPrepare.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./prepare": [
+    {
+      "id": "./node_modules/pixi.js/lib/prepare/index.js",
+      "name": "./node_modules/pixi.js/lib/prepare/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./limiters/CountLimiter": [
+    {
+      "id": "./node_modules/pixi.js/lib/prepare/limiters/CountLimiter.js",
+      "name": "./node_modules/pixi.js/lib/prepare/limiters/CountLimiter.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./limiters/TimeLimiter": [
+    {
+      "id": "./node_modules/pixi.js/lib/prepare/limiters/TimeLimiter.js",
+      "name": "./node_modules/pixi.js/lib/prepare/limiters/TimeLimiter.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./webgl/WebGLPrepare": [
+    {
+      "id": "./node_modules/pixi.js/lib/prepare/webgl/WebGLPrepare.js",
+      "name": "./node_modules/pixi.js/lib/prepare/webgl/WebGLPrepare.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./../process/browser.js": [
+    {
+      "id": "./node_modules/process/browser.js",
+      "name": "./node_modules/process/browser.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./decode": [
+    {
+      "id": "./node_modules/querystring-es3/decode.js",
+      "name": "./node_modules/querystring-es3/decode.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./encode": [
+    {
+      "id": "./node_modules/querystring-es3/encode.js",
+      "name": "./node_modules/querystring-es3/encode.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "querystring": [
+    {
+      "id": "./node_modules/querystring-es3/index.js",
+      "name": "./node_modules/querystring-es3/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "remove-array-items": [
+    {
+      "id": "./node_modules/remove-array-items/dist/remove-array-items.esm.js",
+      "name": "./node_modules/remove-array-items/dist/remove-array-items.esm.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./Loader": [
+    {
+      "id": "./node_modules/resource-loader/lib/Loader.js",
+      "name": "./node_modules/resource-loader/lib/Loader.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./Resource": [
+    {
+      "id": "./node_modules/resource-loader/lib/Resource.js",
+      "name": "./node_modules/resource-loader/lib/Resource.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./async": [
+    {
+      "id": "./node_modules/resource-loader/lib/async.js",
+      "name": "./node_modules/resource-loader/lib/async.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./b64": [
+    {
+      "id": "./node_modules/resource-loader/lib/b64.js",
+      "name": "./node_modules/resource-loader/lib/b64.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "resource-loader": [
+    {
+      "id": "./node_modules/resource-loader/lib/index.js",
+      "name": "./node_modules/resource-loader/lib/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "resource-loader/lib/middlewares/parsing/blob": [
+    {
+      "id": "./node_modules/resource-loader/lib/middlewares/parsing/blob.js",
+      "name": "./node_modules/resource-loader/lib/middlewares/parsing/blob.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "url": [
+    {
+      "id": "./node_modules/url/url.js",
+      "name": "./node_modules/url/url.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./util": [
+    {
+      "id": "./node_modules/url/util.js",
+      "name": "./node_modules/url/util.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "undefined": [
+    {
+      "id": "./node_modules/webpack/buildin/global.js",
+      "name": "./node_modules/webpack/buildin/global.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./../../../webpack/buildin/module.js": [
+    {
+      "id": "./node_modules/webpack/buildin/module.js",
+      "name": "./node_modules/webpack/buildin/module.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./components/MyStage": [
+    {
+      "id": "./pages/components/MyStage.js",
+      "name": "./pages/components/MyStage.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./Rectangle": [
+    {
+      "id": "./pages/components/Rectangle.js",
+      "name": "./pages/components/Rectangle.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ]
+}

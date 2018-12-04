@@ -1,0 +1,17 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@inlet/react-pixi": "^0.4.0",
+    "next": "^7.0.2",
+    "pixi.js": "^4.8.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  },
+  "license": "ISC"
+}
